@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sub TaylorSeries()
 
 'Class Version - Dr. Luks 
@@ -40,3 +41,6 @@ Fact = 1
     Debug.Print Sum
     Debug.Print Term
 End Sub
+=======
+# CalculatingTaylorSeries
+>>>>>>> parent of 906f4af... Update README.md
